@@ -4,7 +4,7 @@
 ## Description
 This website is to help bridge the gap between the clients and The Catering Company. Clients can view available packages and call the provied number for more information should they be interested in either the Corporate Package or the Special Events Package. 
 ## Project Setup Instructions
-* To view website and explore available packages click following link - 
+* To view website and explore available packages click following link - https://brendanjoroge.github.io/The-Catering-Company/
 
 ## Known Bugs
 No known bugs at the moment, should update if this changes.
