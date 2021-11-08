@@ -1,0 +1,8 @@
+p {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div.row img{
+    height: 200px;
+    width: 200px;
+}
